@@ -4,6 +4,7 @@ import Banner from '../components/banner/Banner';
 import Gallary from '../components/Gallary/Gallary';
 import OurBestWork from '../components/OurBestWork/OurBestWork';
 
+
 const Home = () => {
     return (
         <div >
