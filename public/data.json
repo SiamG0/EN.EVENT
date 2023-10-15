@@ -1,0 +1,45 @@
+[
+  
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/SdyDHQw/sean-lee-e-OYj-Tbizx-Bo-unsplash.jpg",
+      "title": "Concerts and Music Festivals",
+      "description": "Looking for a fun night out? Check out our selection of concerts and music festivals! We have something for everyone, from pop and rock to hip hop and country. Buy your tickets today and get ready to sing and dance the night away!",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/LQ3WGJG/danny-howe-bn-D2b-Cvpik-unsplash.jpg",
+      "title": "Theater and Performing Arts",
+      "description": "Whether you're a fan of Broadway musicals, Shakespeare plays, or comedy shows, we have something for you in our theater and performing arts section. Check out our selection of shows and buy your tickets today!",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/2Fjq079/jakob-owens-9p-Rbu-WJ6-Tv-Q-unsplash.jpg",
+      "title": "Film Screenings and Premieres",
+      "description": "Movie lover? Check out our selection of film screenings and premieres! We have everything from indie films to blockbusters. Buy your tickets today and see the latest and greatest on the big screen!",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/8jmvSL1/chad-stembridge-u-Nj9-Ex697-U-unsplash.jpg",
+      "title": "Comedy Shows",
+      "description": "Need a good laugh? Check out our selection of comedy shows! We have everything from stand-up comedians to improv troupes. Buy your tickets today and get ready for a night of laughter!",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/qB9rPZd/martins-zemlickis-NPFu4-Gf-FZ7-E-unsplash.jpg",
+      "title": "Sports Events",
+      "description": "Love sports? Check out our selection of sporting events! We have everything from baseball and basketball to football and soccer. Buy your tickets today and cheer on your favorite team!",
+      "price": 60
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/NrWH47H/cropped-2560-1440-1310684.jpg",
+      "title": "Art Exhibitions and Galleries",
+      "description": "Art lover? Check out our selection of art exhibitions and galleries! We have everything from contemporary art to classical paintings. Buy your tickets today and explore the world of art!",
+      "price": 10
+    }
+  ]
