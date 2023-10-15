@@ -5,6 +5,9 @@ import ErrorPage from "../components/ErrorPage/ErrorPage";
 import SignUp from "../components/SignIn/SignUp";
 import SignIn from "../SignIn/SignIn";
 import AboutUs from "../components/AboutUs/AboutUs";
+import PrivateRouter from "./PrivateRouter";
+import DetailsPage from "../components/DetailsPage/DetailsPage";
+import Blogs from "../components/Blogs/Blogs";
 
 
 
@@ -28,7 +31,15 @@ const Router = createBrowserRouter([
             },
             {
                 path: "/aboutus",
-                element: <AboutUs></AboutUs>
+                element: <PrivateRouter><AboutUs></AboutUs></PrivateRouter>
+            },
+            {
+                path: "/details",
+                element: <PrivateRouter><DetailsPage></DetailsPage></PrivateRouter>
+            },
+            {
+                path: "/blog",
+                element: <PrivateRouter><Blogs></Blogs></PrivateRouter>
             }
         ]
     }
