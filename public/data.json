@@ -1,45 +1,206 @@
 [
-  
-    {
-      "id": 1,
-      "image": "https://i.ibb.co/SdyDHQw/sean-lee-e-OYj-Tbizx-Bo-unsplash.jpg",
-      "title": "Concerts and Music Festivals",
-      "description": "Looking for a fun night out? Check out our selection of concerts and music festivals! We have something for everyone, from pop and rock to hip hop and country. Buy your tickets today and get ready to sing and dance the night away!",
-      "price": 50
-    },
-    {
-      "id": 2,
-      "image": "https://i.ibb.co/LQ3WGJG/danny-howe-bn-D2b-Cvpik-unsplash.jpg",
-      "title": "Theater and Performing Arts",
-      "description": "Whether you're a fan of Broadway musicals, Shakespeare plays, or comedy shows, we have something for you in our theater and performing arts section. Check out our selection of shows and buy your tickets today!",
-      "price": 30
-    },
-    {
-      "id": 3,
-      "image": "https://i.ibb.co/2Fjq079/jakob-owens-9p-Rbu-WJ6-Tv-Q-unsplash.jpg",
-      "title": "Film Screenings and Premieres",
-      "description": "Movie lover? Check out our selection of film screenings and premieres! We have everything from indie films to blockbusters. Buy your tickets today and see the latest and greatest on the big screen!",
-      "price": 20
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/8jmvSL1/chad-stembridge-u-Nj9-Ex697-U-unsplash.jpg",
-      "title": "Comedy Shows",
-      "description": "Need a good laugh? Check out our selection of comedy shows! We have everything from stand-up comedians to improv troupes. Buy your tickets today and get ready for a night of laughter!",
-      "price": 40
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/qB9rPZd/martins-zemlickis-NPFu4-Gf-FZ7-E-unsplash.jpg",
-      "title": "Sports Events",
-      "description": "Love sports? Check out our selection of sporting events! We have everything from baseball and basketball to football and soccer. Buy your tickets today and cheer on your favorite team!",
-      "price": 60
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/NrWH47H/cropped-2560-1440-1310684.jpg",
-      "title": "Art Exhibitions and Galleries",
-      "description": "Art lover? Check out our selection of art exhibitions and galleries! We have everything from contemporary art to classical paintings. Buy your tickets today and explore the world of art!",
-      "price": 10
-    }
-  ]
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/SdyDHQw/sean-lee-e-OYj-Tbizx-Bo-unsplash.jpg",
+    "title": "Concerts and Music Festivals",
+    "description": "Looking for a fun night out? Check out our selection of concerts and music festivals! We have something for everyone, from pop and rock to hip hop and country. Buy your tickets today and get ready to sing and dance the night away!",
+    "price": 50,
+    "price1": 75,
+    "price2": 100,
+    "long_description": "Immerse yourself in the world of live music with our Concerts and Music Festivals section. From heart-pounding rock concerts to soulful jazz performances, we bring you the best in live entertainment. Grab your friends, buy your tickets, and prepare for an unforgettable night filled with your favorite tunes. Don't miss out on the chance to create lasting memories at these incredible events.",
+    "services": [
+      "Ticket Booking",
+      "VIP Seating",
+      "Backstage Pass",
+      "Refreshments",
+      "Merchandise Booth"
+    ],
+    "services1": [
+      "Meet the Artists",
+      "Autographed Merchandise",
+      "Exclusive Access",
+      "Private Soundcheck",
+      "Meet and Greet",
+      "Front Row Seating"
+    ],
+    "services2": [
+      "All-Access Backstage Tour",
+      "Premium Merchandise Package",
+      "Private Meet and Greet with Headliner",
+      "VIP Lounge Access",
+      "Personal Concert Photographer",
+      "Reserved Parking",
+      "Concert Afterparty Pass"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/LQ3WGJG/danny-howe-bn-D2b-Cvpik-unsplash.jpg",
+    "title": "Theater and Performing Arts",
+    "description": "Whether you're a fan of Broadway musicals, Shakespeare plays, or comedy shows, we have something for you in our theater and performing arts section. Check out our selection of shows and buy your tickets today!",
+    "price": 30,
+    "price1": 50,
+    "price2": 75,
+    "long_description": "Step into the world of drama and creativity with our Theater and Performing Arts category. From classic Shakespearean performances to cutting-edge comedy acts, you'll find a diverse range of entertainment. Get ready to be captivated by the magic of live theater. Buy your tickets now and be part of the audience that brings these incredible stories to life.",
+    "services": [
+      "Ticket Booking",
+      "VIP Seating",
+      "Concession Stand",
+      "Meet the Cast",
+      "Souvenir Program"
+    ],
+    "services1": [
+      "Backstage Tour",
+      "Exclusive Pre-show Dinner",
+      "Script Reading",
+      "Director's Meetup",
+      "Prop Collection",
+      "Special Encore"
+    ],
+    "services2": [
+      "VIP Lounge Access",
+      "Private Actor Q&A",
+      "Custom Theater Experience",
+      "Personal Script Reading",
+      "Dinner with the Cast",
+      "Exclusive Behind-the-Scenes Pass",
+      "Post-Show Reception"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/2Fjq079/jakob-owens-9p-Rbu-WJ6-Tv-Q-unsplash.jpg",
+    "title": "Film Screenings and Premieres",
+    "description": "Movie lover? Check out our selection of film screenings and premieres! We have everything from indie films to blockbusters. Buy your tickets today and see the latest and greatest on the big screen!",
+    "price": 20,
+    "price1": 35,
+    "price2": 50,
+    "long_description": "Experience the magic of cinema with our Film Screenings and Premieres. Whether you're a fan of indie films or eagerly anticipate blockbuster releases, our selection caters to all movie enthusiasts. Be among the first to witness the cinematic wonders on the big screen. Grab your popcorn and secure your seats for a night of movie magic.",
+    "services": [
+      "Ticket Booking",
+      "VIP Seating",
+      "Concession Stand",
+      "Meet the Cast",
+      "Red Carpet Access"
+    ],
+    "services1": [
+      "Director's Q&A",
+      "Exclusive Movie Poster",
+      "Film Critic Discussion",
+      "Behind-the-Scenes Pass",
+      "Premiere Afterparty",
+      "Collector's Edition"
+    ],
+    "services2": [
+      "Exclusive Film Screening",
+      "Private Red Carpet Experience",
+      "VIP Director Meetup",
+      "Custom Film Experience",
+      "Exclusive Film Merchandise",
+      "Celebrity Afterparty Access",
+      "Behind-the-Scenes Documentary Viewing"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/8jmvSL1/chad-stembridge-u-Nj9-Ex697-U-unsplash.jpg",
+    "title": "Comedy Shows",
+    "description": "Need a good laugh? Check out our selection of comedy shows! We have everything from stand-up comedians to improv troupes. Buy your tickets today and get ready for a night of laughter!",
+    "price": 40,
+    "price1": 60,
+    "price2": 75,
+    "long_description": "Get ready for an evening of hilarity with our Comedy Shows. From side-splitting stand-up comedians to improvisational comedy troupes, our lineup guarantees a night of non-stop laughter. Bring your friends, grab your tickets, and prepare to laugh until your sides hurt. Don't miss out on the chance to experience the joy of comedy live on stage.",
+    "services": [
+      "Ticket Booking",
+      "VIP Seating",
+      "Meet the Comedians",
+      "Refreshments",
+      "Photo Booth"
+    ],
+    "services1": [
+      "Exclusive Afterparty",
+      "Comedy Workshop",
+      "Custom Jokes",
+      "Meet the Improv Team",
+      "Front Row Seating",
+      "Audience Participation"
+    ],
+    "services2": [
+      "Private Comedy Workshop",
+      "Dinner with the Comedians",
+      "VIP Backstage Access",
+      "Custom Comedy Experience",
+      "Personal Joke Writing Session",
+      "Pre-show Meet and Greet",
+      "Extended Comedy Show"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/qB9rPZd/martins-zemlickis-NPFu4-Gf-FZ7-E-unsplash.jpg",
+    "title": "Sports Events",
+    "description": "Love sports? Check out our selection of sporting events! We have everything from baseball and basketball to football and soccer. Buy your tickets today and cheer on your favorite team!",
+    "price": 60,
+    "price1": 80,
+    "price2": 100,
+    "long_description": "Join the excitement of live sports with our Sports Events section. From the crack of the bat in baseball to the slam dunks in basketball, we bring you the thrill of the game. Don your team colors, secure your tickets, and get ready to cheer your heart out. Be part of the action and witness sports history in the making.",
+    "services": [
+      "Ticket Booking",
+      "VIP Seating",
+      "Concession Stand",
+      "Meet the Players",
+      "Team Merchandise"
+    ],
+    "services1": [
+      "Pre-game Tailgate",
+      "Exclusive Sports Memorabilia",
+      "Player Q&A",
+      "Custom Fan Experience",
+      "Post-game Meet and Greet",
+      "Halftime Show Access"
+    ],
+    "services2": [
+      "Private Stadium Tour",
+      "Dinner with the Athletes",
+      "VIP Locker Room Access",
+      "Custom Sports Experience",
+      "Personal Coaching Session",
+      "All-Access Game Pass",
+      "Championship Celebration"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/NrWH47H/cropped-2560-1440-1310684.jpg",
+    "title": "Art Exhibitions and Galleries",
+    "description": "Art lover? Check out our selection of art exhibitions and galleries! We have everything from contemporary art to classical paintings. Buy your tickets today and explore the world of art!",
+    "price": 10,
+    "price1": 15,
+    "price2": 20,
+    "long_description": "Indulge your artistic senses in our Art Exhibitions and Galleries. From contemporary masterpieces to timeless classics, you'll find a diverse range of visual delights. Secure your tickets and embark on a journey through the world of art. Immerse yourself in creativity, inspiration, and the beauty of human expression.",
+    "services": [
+      "Ticket Booking",
+      "Guided Tours",
+      "Meet the Artists",
+      "Artwork Sales",
+      "Interactive Exhibits"
+    ],
+    "services1": [
+      "Art Collector's Reception",
+      "Private Gallery Tour",
+      "Art Restoration Workshop",
+      "Create Your Masterpiece",
+      "Art History Lecture",
+      "VIP Gallery Access"
+    ],
+    "services2": [
+      "Curator's Guided Tour",
+      "Exclusive Artwork Viewing",
+      "Artist Meet and Greet",
+      "Custom Art Experience",
+      "Private Art Collection Viewing",
+      "Artwork Creation Workshop",
+      "Special Exhibition Access"
+    ]
+  }
+]
