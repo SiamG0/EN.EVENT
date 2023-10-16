@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../AuthProvider/AuthProvider';
 import toast, { Toaster } from 'react-hot-toast';
 import { updateProfile } from 'firebase/auth';
+import SocailAuth from '../SocialAuth/SocailAuth';
 
 
 
@@ -171,6 +172,7 @@ const SignUp = () => {
             </a>
           </p>
         </form>
+        <SocailAuth></SocailAuth>
       </div>
       <Toaster></Toaster>
 

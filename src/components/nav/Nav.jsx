@@ -22,7 +22,7 @@ const Nav = () => {
                         open === true ? <AiOutlineClose></AiOutlineClose> : <AiOutlineMenu></AiOutlineMenu>
                     }
                 </div>
-                <nav className={`absolute lg:bg-transparent md:block z-50 md:static px-5 ${open ? 'right-1' : 'right-72'} ${open ? 'block' : 'hidden'}`}>
+                <nav className={`absolute lg:bg-transparent bg-black md:block z-50 md:static px-5 ${open ? 'right-1' : 'right-72'} ${open ? 'block' : 'hidden'}`}>
                     <ul className='flex flex-col md:flex-row gap-10 items-center'>
                         <li > <NavLink to={"/"}>Home </NavLink> </li>
                         <li > <NavLink to={"/blog"}>Blog</NavLink> </li>

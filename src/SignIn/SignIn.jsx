@@ -2,6 +2,7 @@ import { useContext } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import toast, { Toaster } from 'react-hot-toast';
+import SocailAuth from "../components/SocialAuth/SocailAuth";
 
 
 const SignIn = () => {
@@ -132,7 +133,9 @@ const SignIn = () => {
                             </a>
                         </p>
                     </form>
+                    <SocailAuth></SocailAuth>
                 </div>
+                
                 <Toaster></Toaster>
 
             </div>
