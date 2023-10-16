@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "title": "The Music Festival Experience",
+      "image": "https://i.ibb.co/vDzXKPw/OBW5.jpg",
+      "description": "Explore the thrill of music festivals, from headliners to the vibrant crowd.\nDiscover the magic of live music events.",
+      "category": "Concerts and Music Festivals"
+    },
+    {
+      "id": 2,
+      "title": "Shakespearean Drama Unleashed",
+      "image": "https://i.ibb.co/CzNfT7J/OBW6.jpg",
+      "description": "Discover the timeless beauty of Shakespearean theater and its impact on modern drama.\nA journey into the world of the Bard.",
+      "category": "Theater and Performing Arts"
+    },
+    {
+      "id": 3,
+      "title": "Movie Magic: Behind the Scenes",
+      "image": "https://i.ibb.co/n61LzMX/gallary1.jpg",
+      "description": "Step into the world of filmmaking and explore the secrets of movie production.\nUnveil the magic behind the silver screen.",
+      "category": "Film Screenings and Premieres"
+    },
+    {
+      "id": 4,
+      "title": "Laughter Therapy: The Power of Comedy",
+      "image": "https://i.ibb.co/ScvjBQ8/gallary2.jpg",
+      "description": "Learn how comedy can heal, inspire, and bring joy to our lives.\nA dose of laughter for a brighter day.",
+      "category": "Comedy Shows"
+    },
+    {
+      "id": 5,
+      "title": "Game On: Sports Spectaculars",
+      "image": "https://i.ibb.co/Y7Txtpw/gallary3.jpg",
+      "description": "Dive into the world of sports events, from epic showdowns to underdog victories.\nExperience the thrill of the game.",
+      "category": "Sports Events"
+    },
+    {
+      "id": 6,
+      "title": "Brushstrokes of Genius",
+      "image": "https://i.ibb.co/BnP1cS8/gallary4.jpg",
+      "description": "Appreciate the beauty of art exhibitions and the creativity of talented artists.\nA visual journey through artistic wonders.",
+      "category": "Art Exhibitions and Galleries"
+    },
+    {
+      "id": 7,
+      "title": "Rock the Stage: A Concert Journey",
+      "image": "https://i.ibb.co/bRn6LDc/gallary5.jpg",
+      "description": "Relive the excitement of epic concert performances and rock 'n' roll legends.\nGet ready to rock the night away.",
+      "category": "Concerts and Music Festivals"
+    },
+    {
+      "id": 8,
+      "title": "Lights, Camera, Action: Film Insights",
+      "image": "https://i.ibb.co/bL5tCR2/gallary6.jpg",
+      "description": "Delve into the world of cinema, from iconic films to emerging directors.\nA cinematic journey into the world of movies.",
+      "category": "Film Screenings and Premieres"
+    },
+    {
+      "id": 9,
+      "title": "Standing Ovation: Theater Magic",
+      "image": "https://i.ibb.co/4dXNyVh/OBW.jpg",
+      "description": "Experience the magic of theater and the enchantment of live performances.\nA front-row seat to the world of drama.",
+      "category": "Theater and Performing Arts"
+    },
+    {
+      "id": 10,
+      "title": "Rising Stars: Artistic Explorations",
+      "image": "https://i.ibb.co/D7Lm8Qf/OBW2.jpg",
+      "description": "Spotlight on emerging artists and their captivating artistic journeys.\nDiscover the world of up-and-coming talent.",
+      "category": "Art Exhibitions and Galleries"
+    },
+    {
+      "id": 11,
+      "title": "Movie Night: A Cinematic Journey",
+      "image": "https://i.ibb.co/Tg9qHQH/OBW3.jpg",
+      "description": "A deep dive into classic and contemporary cinema, from blockbusters to indie gems.\nExplore the world of film.",
+      "category": "Film Screenings and Premieres"
+    },
+    {
+      "id": 12,
+      "title": "Game On: Sports and Beyond",
+      "image": "https://i.ibb.co/DgWjvs9/OBW4.jpg",
+      "description": "Explore the world of sports, from adrenaline-packed games to inspiring stories of athletes.\nA journey into the world of sports.",
+      "category": "Sports Events"
+    }
+  ]
+  
