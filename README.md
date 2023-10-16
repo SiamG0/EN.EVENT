@@ -1,8 +1,10 @@
-# React + Vite
+# Project Title
+1: This Website has a system that will allow you to hair us for manageing your event.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2: There is diffrent categorys where you can choose what kind of package you need.
 
-Currently, two official plugins are available:
+3: You can see the best of our works done by our company.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4: The user can create a account to access all the functions of the website.
+
+5: There is a Blog section where the user can explore many details about our works and achievements. 

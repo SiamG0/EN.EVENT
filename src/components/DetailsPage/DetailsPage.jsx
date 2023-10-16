@@ -9,7 +9,9 @@ const DetailsPage = () => {
     const { image, title, price, long_description, services1, services2, services, price1, price2 } = findData;
     return (
         <div>
-            <h1 className="text-3xl md:text-5xl bg1 text-orange-500 shadow-black italic font-extrabold text-center p-40">Details Our Services</h1>
+            <div className="text-3xl md:text-5xl bg1 text-orange-500 shadow-black italic font-extrabold text-center p-40">
+            <h1 className='p-2'>Details of Our Services</h1>
+            </div>
             <div className="hero min-h-screen bg-base-200">
                 <div className="hero-content flex-col lg:flex-row">
                     <img src={image} className='w-[550px]' />
@@ -20,7 +22,8 @@ const DetailsPage = () => {
                     </div>
                 </div>
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-5 lg:max-w-6xl mx-auto'>
+           <div className='flex justify-center '>
+           <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 lg:gap-20 my-5 lg:max-w-6xl mx-auto '>
                 {/* Basic card */}
                 <div className="relative flex w-full max-w-[20rem] flex-col rounded-xl bg-gradient-to-tr from-pink-600 to-pink-400 bg-clip-border p-8 text-white shadow-md shadow-pink-500/40">
                     <div className="relative m-0 mb-8 overflow-hidden rounded-none border-b border-white/10 bg-transparent bg-clip-border pb-8 text-center text-gray-700 shadow-none">
@@ -172,6 +175,7 @@ const DetailsPage = () => {
                     </div>
                 </div>
             </div>
+           </div>
         </div>
     );
 };
